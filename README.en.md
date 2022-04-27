@@ -9,8 +9,8 @@ English | [简体中文](./README.md)
 
 Click Here to [Experience Online](http://games.coldregion.top/)
 
-![Release Download](https://img.shields.io/github/downloads/LYOfficial/HiGames/total?style=flat-square)[![Release Version](https://img.shields.io/github/v/release/LYOfficial/HiGames?style=flat-square)](https://github.com/BeyondDimension/SteamTools/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/LYOfficial/HiGames?style=flat-square)](LICENSE)[![GitHub Star](https://img.shields.io/github/stars/LYOfficial/HiGames?style=flat-square)](https://github.com/BeyondDimension/SteamTools/stargazers)[![GitHub Fork](https://img.shields.io/github/forks/LYOfficial/HiGames?style=flat-square)](https://github.com/LYOfficial/HiGames/network/members)
+![Release Download](https://img.shields.io/github/downloads/LYOfficial/HiGames/total?style=flat-square)[![Release Version](https://img.shields.io/github/v/release/LYOfficial/HiGames?style=flat-square)](https://github.com/LYOfficial/HiGames/releases/latest)
+[![GitHub license](https://img.shields.io/github/license/LYOfficial/HiGames?style=flat-square)](LICENSE)[![GitHub Star](https://img.shields.io/github/stars/LYOfficial/HiGames?style=flat-square)](https://github.com/LYOfficial/HiGames/stargazers)[![GitHub Fork](https://img.shields.io/github/forks/LYOfficial/HiGames?style=flat-square)](https://github.com/LYOfficial/HiGames/network/members)
 [![Official WebSite](https://img.shields.io/badge/Website-ColdRegion-blue.svg?style=flat-square&color=61dafb)](http://www.coldregion.top)[![QQ群](https://img.shields.io/badge/QQ群-1061776004-blue.svg?style=flat-square&color=12b7f5)](https://qm.qq.com/cgi-bin/qm/qr?k=sbkWK05NU8FE7hBWanSOcJ6Ee7Huaiov&jump_from=webapi)
 
 ## 🚀 Download
